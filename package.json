@@ -1,0 +1,11 @@
+{
+  "name": "ipl",
+  "version": "1.0.0",
+  "description": "IPL data project in javascript",
+  "main": "iplDataAnalysis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurabh jain",
+  "license": "ISC"
+}
